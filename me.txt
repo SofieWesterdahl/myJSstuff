@@ -1,0 +1,5 @@
+My name is Sofie. 
+
+I know very little about HTML, CSS and JS. On a scale 1-10, maybe 2.
+
+It's going to be fun to learn JS.
